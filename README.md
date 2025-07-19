@@ -18,11 +18,11 @@ Academic Defense	Prepare for thesis defenses by answering methodology, analysis,
 Public Speaking	Practice persuasive delivery, audience engagement, and handling dynamic Q&A in presentation formats.
 
 Screenshots
-<img width="1893" height="591" alt="image" src="https://github.com/user-attachments/assets/0655aee6-6f7a-4cc1-a292-11491e4449b2" />
-<img width="1871" height="878" alt="image" src="https://github.com/user-attachments/assets/48734cf7-9c04-4877-a4e4-08e59b269740" />
-<img width="1270" height="853" alt="image" src="https://github.com/user-attachments/assets/2be5266d-7b69-4848-879f-c88eff692a2f" />
-<img width="1569" height="909" alt="image" src="https://github.com/user-attachments/assets/0e1eb6e5-60ea-4832-a8c8-8d0296705adc" />
-<img width="1696" height="309" alt="image" src="https://github.com/user-attachments/assets/1d00174e-3333-47b7-8eeb-63d6b6fb84ef" />
+<img width="1873" height="704" alt="image" src="https://github.com/user-attachments/assets/1afedbaf-f41b-4045-955d-8b0564442a54" />
+<img width="1691" height="891" alt="image" src="https://github.com/user-attachments/assets/8d0e8294-8c8d-4b29-98ac-b2b29a2c63a8" />
+<img width="1311" height="894" alt="image" src="https://github.com/user-attachments/assets/24ad7e86-f2a1-4ee5-af83-30747e63017d" />
+<img width="1674" height="333" alt="image" src="https://github.com/user-attachments/assets/4dbbe4a2-5be9-4b2c-92a2-bdb70023ce2e" />
+
 
 
 Getting Started
